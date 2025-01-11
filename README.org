@@ -6,3 +6,4 @@
 Eureka, an AI-based programming assistant for Emacs.
 
 
+https://emacs-china.org/t/emacs-eureka/28586
